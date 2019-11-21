@@ -1,6 +1,6 @@
 # Reduzindo imagens com Python
 
-Este repositório contém um Jupyter Notebook com um programa de redução de imagens que permite aumentar significativamente o espaço 
+Este repositório contém um Jupyter Notebook com um código de redução de imagens que permite aumentar significativamente o espaço 
 disponível na memória do seu dispositivo.
 
 ### Mais detalhes
