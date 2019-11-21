@@ -7,4 +7,4 @@ disponível na memória do seu dispositivo.
 
 Um tutorial completo foi publicado no link abaixo:
 
-  - link
+  - https://medium.com/@urapython.community/reduzindo-imagens-com-python-bf1c676be118
